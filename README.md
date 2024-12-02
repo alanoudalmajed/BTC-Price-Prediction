@@ -12,4 +12,4 @@ The project aims to improve Bitcoin price predictions by integrating historical 
 4.	Use a Reinforcement Deep Learning (RDL) agent to make buy, sell, or hold decisions. This agent should reward accurate predictions and adjust based on market changes.
 
 
-<img width="361" alt="image" src="https://github.com/user-attachments/assets/5ee157a9-a16c-4e67-acca-95bc39f19fb7">
+![Uploading Screenshot 2024-12-02 at 11.05.12 PM.png…]()
